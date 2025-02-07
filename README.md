@@ -18,4 +18,4 @@ This repository is a collection of small Python code examples and experiments th
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/Lewys-Tech/python_snippets.git
